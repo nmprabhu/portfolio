@@ -1,4 +1,4 @@
-Attribute VB_Name = "Analysis"
+Attribute VB_Name = "ParseDataAndSummarize"
 Option Explicit
 
 Public Sub ParseInfo()
